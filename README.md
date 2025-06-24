@@ -1,7 +1,7 @@
 # Capstone-2---Data-Analysis
 A data analytics project to help PT TransJakarta understand trip completion behavior among passengers. This includes identifying incomplete trips, analyzing age and payment behavior, and visualizing usage patterns to support operational decisions.
 
-# 🚍 TransJakarta Trip Analysis (Jupyter Notebook)
+# 🚍 TransJakarta Trip Analysis
 
 This repository contains a data analysis notebook that explores passenger transaction data from PT TransJakarta. The main goal is to identify patterns in incomplete trips (tap-in without tap-out), analyze user demographics, and generate insights to improve service efficiency and reduce potential revenue loss.
 
